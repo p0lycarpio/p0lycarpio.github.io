@@ -19,15 +19,11 @@
             <foaf:mbox_sha1sum>8714ef7088ece792b48b97281e5b93765c0e93c5</foaf:mbox_sha1sum>
             <rdfs:seeAlso rdf:resource="https://the-ligma.github.io/"/>
         </foaf:Person>
-    </foaf:knows>
-    <foaf:knows>
         <foaf:Person rdf:about="https://turbomoai.github.io/foaf.rdf">
             <foaf:name>Fabien Frappier</foaf:name>
             <foaf:mbox_sha1sum>e19032a883f88e13d936eb7a36547596c724f972</foaf:mbox_sha1sum>
             <rdfs:seeAlso rdf:resource="https://turbomoai.github.io" />
         </foaf:Person>
-    </foaf:knows>
-    <foaf:knows>
         <foaf:Person rdf:about="https://honguez.github.io/foaf.rdf">
             <foaf:name>Nathan Ruello</foaf:name>
             <foaf:mbox_sha1sum>4847102e343503ba3c49e320b9e59d0b7026c6fa</foaf:mbox_sha1sum>
